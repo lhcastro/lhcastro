@@ -5,9 +5,8 @@
 ## Olá :v:
 Apaixonado por programação, atualmente focado em desenvolvimento mobile :iphone: e web:computer:. 
 
-#Projetos mais recentes:
-#AnyCounter - App feito em flutter utilizando Getx
-https://play.google.com/store/apps/details?id=com.lhcappsbr.any_counter
+### Projetos mais recentes:
+####  [AnyCounter - App feito em flutter utilizando Getx](https://play.google.com/store/apps/details?id=com.lhcappsbr.any_counter)
 
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LuizCastro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-henrique-castro-66a3541a8)](https://www.linkedin.com/in/luiz-henrique-castro-66a3541a8) 
 |
