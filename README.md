@@ -3,7 +3,7 @@
 
 
 ## Olá :v:
-Apaixonado por programação, atualmente focado em desenvolvimento mobile :iphone: e web:computer:. 
+Programador, atualmente focado em desenvolvimento mobile :iphone: e web:computer:. 
 
 ### Projetos mais recentes:
 ####  [AnyCounter - App feito em flutter utilizando Getx](https://play.google.com/store/apps/details?id=com.lhcappsbr.any_counter)
