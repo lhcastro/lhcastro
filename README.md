@@ -2,8 +2,7 @@
 
 
 
-## Olá :v:
-Programador, atualmente focado em desenvolvimento web:computer:. 
+
 
 
 
